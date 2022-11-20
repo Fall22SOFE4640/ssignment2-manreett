@@ -16,6 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-
-- Video of running Flutter Application
+## Video of running Flutter Application
 - [Flutter App](https://drive.google.com/file/d/1G0N86THz26fspGoewWDVx4VdTjYpBnE3/view?usp=sharing)
